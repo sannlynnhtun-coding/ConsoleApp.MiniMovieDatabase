@@ -1,0 +1,487 @@
+[
+  {
+    "Title": "The Shawshank Redemption",
+    "Year": 1994,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "The Godfather",
+    "Year": 1972,
+    "Genre": "Crime"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2001,
+    "Genre": "Fantasy"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": 1994,
+    "Genre": "Crime, Comedy"
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": 2008,
+    "Genre": "Action, Crime"
+  },
+  {
+    "Title": "Schindler's List",
+    "Year": 1993,
+    "Genre": "Historical Drama"
+  },
+  {
+    "Title": "12 Angry Men",
+    "Year": 1957,
+    "Genre": "Drama, Legal"
+  },
+  {
+    "Title": "The Matrix",
+    "Year": 1999,
+    "Genre": "Sci-fi, Action"
+  },
+  {
+    "Title": "Inception",
+    "Year": 2010,
+    "Genre": "Sci-fi, Thriller"
+  },
+  {
+    "Title": "Fight Club",
+    "Year": 1999,
+    "Genre": "Drama, Thriller"
+  },
+  {
+    "Title": "Forrest Gump",
+    "Year": 1994,
+    "Genre": "Drama, Comedy"
+  },
+  {
+    "Title": "Whiplash",
+    "Year": 2014,
+    "Genre": "Drama, Music"
+  },
+  {
+    "Title": "Good Will Hunting",
+    "Year": 1997,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "The Shining",
+    "Year": 1980,
+    "Genre": "Horror, Psychological Thriller"
+  },
+  {
+    "Title": "Memento",
+    "Year": 2000,
+    "Genre": "Mystery, Neo-noir"
+  },
+  {
+    "Title": "Parasite",
+    "Year": 2019,
+    "Genre": "Black Comedy, Thriller"
+  },
+  {
+    "Title": "Spirited Away",
+    "Year": 2001,
+    "Genre": "Animated, Fantasy"
+  },
+  {
+    "Title": "The Big Lebowski",
+    "Year": 1998,
+    "Genre": "Crime, Comedy"
+  },
+  {
+    "Title": "The Grand Budapest Hotel",
+    "Year": 2014,
+    "Genre": "Comedy, Crime"
+  },
+  {
+    "Title": "The Good, the Bad and the Ugly",
+    "Year": 1966,
+    "Genre": "Western"
+  },
+  {
+    "Title": "Seven",
+    "Year": 1995,
+    "Genre": "Crime, Mystery"
+  },
+  {
+    "Title": "The Departed",
+    "Year": 2006,
+    "Genre": "Crime, Thriller"
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": 2003,
+    "Genre": "Fantasy, Adventure"
+  },
+  {
+    "Title": "The Princess Bride",
+    "Year": 1987,
+    "Genre": "Adventure, Comedy"
+  },
+  {
+    "Title": "Blade Runner",
+    "Year": 1982,
+    "Genre": "Sci-fi, Neo-noir"
+  },
+  {
+    "Title": "The Empire Strikes Back",
+    "Year": 1980,
+    "Genre": "Sci-fi, Action"
+  },
+  {
+    "Title": "Raiders of the Lost Ark",
+    "Year": 1981,
+    "Genre": "Action, Adventure"
+  },
+  {
+    "Title": "Back to the Future",
+    "Year": 1985,
+    "Genre": "Sci-fi, Comedy"
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Year": 1991,
+    "Genre": "Crime, Thriller"
+  },
+  {
+    "Title": "Terminator 2: Judgment Day",
+    "Year": 1991,
+    "Genre": "Sci-fi, Action"
+  },
+  {
+    "Title": "The Lion King",
+    "Year": 1994,
+    "Genre": "Animated, Drama"
+  },
+  {
+    "Title": "The Social Network",
+    "Year": 2010,
+    "Genre": "Drama, Biography"
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "Year": 2013,
+    "Genre": "Crime, Comedy"
+  },
+  {
+    "Title": "Django Unchained",
+    "Year": 2012,
+    "Genre": "Western, Drama"
+  },
+  {
+    "Title": "The Revenant",
+    "Year": 2015,
+    "Genre": "Adventure, Drama"
+  },
+  {
+    "Title": "Interstellar",
+    "Year": 2014,
+    "Genre": "Sci-fi, Drama"
+  },
+  {
+    "Title": "Kill Bill: Vol. 1",
+    "Year": 2003,
+    "Genre": "Action, Crime"
+  },
+  {
+    "Title": "Kill Bill: Vol. 2",
+    "Year": 2004,
+    "Genre": "Action, Crime"
+  },
+  {
+    "Title": "Catch Me If You Can",
+    "Year": 2002,
+    "Genre": "Crime, Biography"
+  },
+  {
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": 2002,
+    "Genre": "Fantasy, Adventure"
+  },
+  {
+    "Title": "Goodfellas",
+    "Year": 1990,
+    "Genre": "Crime, Drama"
+  },
+  {
+    "Title": "The Usual Suspects",
+    "Year": 1995,
+    "Genre": "Crime, Mystery"
+  },
+  {
+    "Title": "The Se7en",
+    "Year": 1995,
+    "Genre": "Crime, Mystery"
+  },
+  {
+    "Title": "The Big Lebowski",
+    "Year": 1998,
+    "Genre": "Crime, Comedy"
+  },
+  {
+    "Title": "The Fifth Element",
+    "Year": 1997,
+    "Genre": "Sci-fi, Action"
+  },
+  {
+    "Title": "Snatch.",
+    "Year": 2000,
+    "Genre": "Crime, Comedy"
+  },
+  {
+    "Title": "Oldboy",
+    "Year": 2003,
+    "Genre": "Thriller, Mystery"
+  },
+  {
+    "Title": "Sin City",
+    "Year": 2005,
+    "Genre": "Neo-noir, Crime"
+  },
+  {
+    "Title": "There Will Be Blood",
+    "Year": 2007,
+    "Genre": "Drama, Period Drama"
+  },
+  {
+    "Title": "No Country for Old Men",
+    "Year": 2007,
+    "Genre": "Crime, Thriller"
+  },
+  {
+    "Title": "Let the Right One In",
+    "Year": 2008,
+    "Genre": "Drama, Fantasy"
+  },
+  {
+    "Title": "Gran Torino",
+    "Year": 2008,
+    "Genre": "Drama, Crime"
+  },
+  {
+    "Title": "Inglourious Basterds",
+    "Year": 2009,
+    "Genre": "War, Drama"
+  },
+  {
+    "Title": "Shutter Island",
+    "Year": 2010,
+    "Genre": "Mystery, Thriller"
+  },
+  {
+    "Title": "Inception",
+    "Year": 2010,
+    "Genre": "Sci-fi, Thriller"
+  },
+  {
+    "Title": "Drive",
+    "Year": 2011,
+    "Genre": "Action, Crime"
+  },
+  {
+    "Title": "The Raid: Redemption",
+    "Year": 2011,
+    "Genre": "Action, Martial Arts"
+  },
+  {
+    "Title": "The Raid 2",
+    "Year": 2014,
+    "Genre": "Action, Martial Arts"
+  },
+  {
+    "Title": "Prisoners",
+    "Year": 2013,
+    "Genre": "Thriller, Drama"
+  },
+  {
+    "Title": "Whiplash",
+    "Year": 2014,
+    "Genre": "Drama, Music"
+  },
+  {
+    "Title": "Gone Girl",
+    "Year": 2014,
+    "Genre": "Mystery, Thriller"
+  },
+  {
+    "Title": "Blade Runner 2049",
+    "Year": 2017,
+    "Genre": "Sci-fi, Neo-noir"
+  },
+  {
+    "Title": "Dunkirk",
+    "Year": 2017,
+    "Genre": "War, Action"
+  },
+  {
+    "Title": "Parasite",
+    "Year": 2019,
+    "Genre": "Black Comedy, Thriller"
+  },
+  {
+    "Title": "Knives Out",
+    "Year": 2019,
+    "Genre": "Mystery, Comedy"
+  },
+  {
+    "Title": "1917",
+    "Year": 2019,
+    "Genre": "War, Drama"
+  },
+  {
+    "Title": "The Irishman",
+    "Year": 2019,
+    "Genre": "Crime, Drama"
+  },
+  {
+    "Title": "Marriage Story",
+    "Year": 2019,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "The Lighthouse",
+    "Year": 2019,
+    "Genre": "Psychological Horror"
+  },
+  {
+    "Title": "Portrait of a Lady on Fire",
+    "Year": 2019,
+    "Genre": "Drama, Romance"
+  },
+  {
+    "Title": "Parasite",
+    "Year": 2019,
+    "Genre": "Black Comedy, Thriller"
+  },
+  {
+    "Title": "Uncut Gems",
+    "Year": 2019,
+    "Genre": "Crime, Thriller"
+  },
+  {
+    "Title": "Tenet",
+    "Year": 2020,
+    "Genre": "Sci-fi, Action"
+  },
+  {
+    "Title": "Sound of Metal",
+    "Year": 2020,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Nomadland",
+    "Year": 2020,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Minari",
+    "Year": 2020,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "The Father",
+    "Year": 2020,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Promising Young Woman",
+    "Year": 2020,
+    "Genre": "Comedy, Thriller"
+  },
+  {
+    "Title": "Dune",
+    "Year": 2021,
+    "Genre": "Sci-fi, Adventure"
+  },
+  {
+    "Title": "The Power of the Dog",
+    "Year": 2021,
+    "Genre": "Western, Drama"
+  },
+  {
+    "Title": "Belfast",
+    "Year": 2021,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "King Richard",
+    "Year": 2021,
+    "Genre": "Drama, Biography"
+  },
+  {
+    "Title": "CODA",
+    "Year": 2021,
+    "Genre": "Comedy, Drama"
+  },
+  {
+    "Title": "The Batman",
+    "Year": 2022,
+    "Genre": "Action, Crime"
+  },
+  {
+    "Title": "Everything Everywhere All at Once",
+    "Year": 2022,
+    "Genre": "Action, Comedy"
+  },
+  {
+    "Title": "Elvis",
+    "Year": 2022,
+    "Genre": "Musical, Biography"
+  },
+  {
+    "Title": "Top Gun: Maverick",
+    "Year": 2022,
+    "Genre": "Action, Adventure"
+  },
+  {
+    "Title": "The Northman",
+    "Year": 2022,
+    "Genre": "Historical, Action"
+  },
+  {
+    "Title": "Women Talking",
+    "Year": 2022,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "Tár",
+    "Year": 2022,
+    "Genre": "Drama"
+  },
+  {
+    "Title": "The Banshees of Inisherin",
+    "Year": 2022,
+    "Genre": "Drama, Comedy"
+  },
+  {
+    "Title": "Triangle of Sadness",
+    "Year": 2022,
+    "Genre": "Satire, Comedy"
+  },
+  {
+    "Title": "Avatar: The Way of Water",
+    "Year": 2022,
+    "Genre": "Sci-fi, Adventure"
+  },
+  {
+    "Title": "Glass Onion: A Knives Out Mystery",
+    "Year": 2022,
+    "Genre": "Mystery, Comedy"
+  },
+  {
+    "Title": "The Fabelmans",
+    "Year": 2022,
+    "Genre": "Coming-of-age, Drama"
+  },
+  {
+    "Title": "Women King",
+    "Year": 2022,
+    "Genre": "Historical, Action"
+  },
+  {
+    "Title": "She Said",
+    "Year": 2022,
+    "Genre": "Drama"
+  }
+]
