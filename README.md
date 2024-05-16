@@ -1,4 +1,4 @@
-### MiniMovieDatabase - Domain Logic
+# Mini Movie Database
 
 #### Overview
 The `ConsoleApp.MiniMovieDatabase` is a console-based application designed to manage a simple movie database. It allows users to perform CRUD (Create, Read, Update, Delete) operations on movie records.
